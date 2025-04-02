@@ -1,4 +1,5 @@
 # STM32F429I-Discovery LCD ASCII Art Demo
+![IMG_2304](https://github.com/user-attachments/assets/458eebb1-0d13-4f94-9bab-58532db11e78)
 
 This repository contains firmware for the **STM32F429I-Discovery** board that displays a piece of ASCII art on the built-in LCD screen.
 
@@ -52,12 +53,6 @@ The project utilizes the STMicroelectronics HAL libraries and the Board Support 
     *   Open a serial terminal program configured for the adapter's COM port at **115200 baud, 8 data bits, no parity, 1 stop bit (8N1)**.
     *   Reset the board. You should see the "HELLO, STM32" message printed in the terminal.
 
-## Demo
-
-*(Consider adding a photo or GIF of the LCD displaying the ASCII art here!)*
-
-![image](https://github.com/user-attachments/assets/b3e7e940-5dd1-47f3-8d6e-a5014b2563c2)
-*(Example placeholder - replace with your actual image/gif link)*
 
 
 ## Author
